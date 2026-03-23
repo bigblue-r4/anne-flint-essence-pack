@@ -1,0 +1,10 @@
+{
+  "task": "current top-level task description",
+  "position": "what has been completed",
+  "next_step": "immediate next action",
+  "open_questions": [
+    "anything unresolved that needs attention"
+  ],
+  "confidence": "high | medium | low",
+  "notes": "anything the returning agent should know"
+}
