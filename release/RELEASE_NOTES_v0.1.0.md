@@ -1,4 +1,4 @@
-# Anne Flint Essence Pack v0.1.0
+# Anne Flint Essence v0.1.0
 
 First public packaging of Anne Flint's reusable agent persona + SpaProtocol session hygiene pattern.
 

@@ -1,6 +1,6 @@
 # Source Concepts Used
 
-This package was derived from two internal concept documents:
+This public starter pack distills two earlier working concepts:
 
 - `SpaProtocol` — session hygiene for long-running agents
 - `Agent Session Management Framework` — behavioral identity check, adaptive pacing, drift signaling, and context reset mechanics

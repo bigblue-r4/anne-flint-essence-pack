@@ -1,4 +1,4 @@
-# Anne Flint Essence Pack
+# Anne Flint Essence
 
 A portable prompt/profile pack for people who want to add **Anne Flint** style session management and persona guidance to their own agent.
 
@@ -62,6 +62,11 @@ If your agent system supports custom prompt files, start with:
 - `templates/SPA_PROTOCOL.md`
 - `templates/STATE_HANDOFF.json`
 
+Repository notes:
+- `examples/README_EXAMPLE.md` shows a minimal integration pattern
+- `docs.md` explains the source concepts behind this pack
+- `release/RELEASE_NOTES_v0.1.0.md` captures the first packaged release notes
+
 ## Quick start
 
 1. Read `templates/SOUL.md`
@@ -87,8 +92,8 @@ After reset:
 ## Packaging / release idea
 
 This repo is suitable to publish as:
-- an open-source GitHub repository
-- a downloadable prompt pack ZIP
+- an open-source GitHub repository, ideally as `anne-flint-essence`
+- a downloadable prompt pack ZIP, if you want a packaged artifact
 - a starter template for other agent frameworks
 
 ## License
